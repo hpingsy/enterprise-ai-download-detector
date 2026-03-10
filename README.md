@@ -1,6 +1,6 @@
 # 🛡️ 企業 AI 工具可疑下載來源偵測器
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/enterprise-ai-download-detector/blob/main/企業AI工具可疑下載偵測器.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hpingsy/enterprise-ai-download-detector/blob/main/企業AI工具可疑下載偵測器.ipynb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Platform](https://img.shields.io/badge/Platform-Google%20Colab-orange.svg)](https://colab.research.google.com/)
@@ -55,7 +55,7 @@
 
 ```bash
 # 1. 複製專案
-git clone https://github.com/YOUR_USERNAME/enterprise-ai-download-detector.git
+git clone https://github.com/hpingsy/enterprise-ai-download-detector.git
 cd enterprise-ai-download-detector
 
 # 2. 安裝套件
